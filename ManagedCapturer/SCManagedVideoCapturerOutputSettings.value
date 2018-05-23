@@ -1,0 +1,10 @@
+#import "SCManagedVideoCapturerOutputType.h"
+
+interface SCManagedVideoCapturerOutputSettings
+    CGFloat width
+    CGFloat height
+    CGFloat videoBitRate
+    CGFloat audioBitRate
+    NSUInteger keyFrameInterval
+    enum SCManagedVideoCapturerOutputType outputType
+end

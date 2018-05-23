@@ -1,0 +1,20 @@
+#import <CoreGraphics/CoreGraphics.h>
+#import "SCManagedCaptureDevice.h"
+
+interface SCManagedCapturerState
+    BOOL isRunning
+    BOOL isNightModeActive
+    BOOL isPortraitModeActive
+    BOOL lowLightCondition
+    BOOL adjustingExposure
+    enum SCManagedCaptureDevicePosition devicePosition
+    CGFloat zoomFactor
+    BOOL flashSupported
+    BOOL torchSupported
+    BOOL flashActive
+	BOOL torchActive
+    BOOL lensesActive
+    BOOL arSessionActive
+    BOOL liveVideoStreaming
+    BOOL lensProcessorReady
+end

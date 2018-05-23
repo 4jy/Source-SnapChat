@@ -1,0 +1,6 @@
+interface SCManagedRecordedVideo
+	NSURL *videoURL;
+	NSURL *rawVideoDataFileURL;
+	UIImage *placeholderImage;
+	BOOL isFrontFacingCamera;
+end
