@@ -1,0 +1,10 @@
+--- !OWNERS
+
+version: 2
+
+default:
+  jira_project: CCAM
+  owners:
+    num_required_reviewers: 0
+    teams:
+    - Snapchat/core-camera-ios
