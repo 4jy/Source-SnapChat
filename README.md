@@ -1,5 +1,6 @@
 # Source-SnapChat
 Source Code for SnapChat
-By the legend of Khaled 
+
+By The Legend Of Khaled 
 
 @i5aaaald
