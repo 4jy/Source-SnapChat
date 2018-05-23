@@ -1,0 +1,13 @@
+--- !OWNERS
+
+version: 2
+
+default:
+  jira_project: CCAM
+  owners:
+    num_required_reviewers: 1
+    teams:
+    - Snapchat/core-camera-ios
+    users:
+    - cjiang
+    - ljia
