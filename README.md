@@ -1,5 +1,5 @@
 # Source-SnapChat
-Source for SnapChat
+Source of SnapChat
 
 .
 
