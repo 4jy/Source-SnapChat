@@ -8,6 +8,6 @@ default:
     num_required_reviewers: 1
     teams:
     - Snapchat/core-camera-ios
-    users:
+    users:rachel.kranda
     - cjiang
     - ljia
